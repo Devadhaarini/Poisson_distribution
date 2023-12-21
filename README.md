@@ -3,6 +3,9 @@
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
+# Developed by : D.Devadhaarini
+# Register no.: 212223230040
+
 # Software required :  
 
 Python and Visual component tool
